@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![JunzhouLiu's github stats](https://github-readme-stats.vercel.app/api?username=JunzhouLiu)](https://github.com/JunzhouLiu/ 'JunzhouLiu')
+
+<img src="https://badges.toozhao.com/badges/01EMH015S1910BJKEYXAS5CWEJ/orange.svg" />
