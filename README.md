@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center"> 
+  
 ![JunzhouLiu's github stats](https://github-readme-stats.vercel.app/api?username=JunzhouLiu&show_icons=true)
 
 <a href="https://github.com/JunzhouLiu/BILIBILI-HELPER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunzhouLiu&repo=BILIBILI-HELPER" />
 </a>
+</div>
 
-<img src="https://badges.toozhao.com/badges/01EMH015S1910BJKEYXAS5CWEJ/orange.svg" />
+
