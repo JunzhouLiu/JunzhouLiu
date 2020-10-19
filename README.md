@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   
-![JunzhouLiu's github stats](https://github-readme-stats.vercel.app/api?username=JunzhouLiu&show_icons=true)
+![JunzhouLiu's github stats](https://github-readme-stats.junzhouliu.vercel.app/api?username=JunzhouLiu&show_icons=true)
 
 <a href="https://github.com/JunzhouLiu/BILIBILI-HELPER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunzhouLiu&repo=BILIBILI-HELPER" />
+  <img align="center" src="https://github-readme-stats.junzhouliu.vercel.app/api/pin/?username=JunzhouLiu&repo=BILIBILI-HELPER" />
 </a>
 </div>
-
-
